@@ -96,3 +96,5 @@ Markdown is much simpler than Word, so some things are simplified or dropped:
 ## How it works
 
 The script reads the document with `python-docx` and walks through the body in order, converting paragraphs and tables one by one. Adjacent text runs with identical formatting are merged to avoid output like `**a****b**`. List types (bullet or numbered) are read from the document's numbering definitions.
+
+###### Created by wkg2673
