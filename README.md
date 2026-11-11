@@ -24,8 +24,8 @@ A small, dependency-light Python program that converts Word documents (`.docx`) 
 ## Installation
 
 ```bash
-git clone https://github.com/<your-username>/<your-repo>.git
-cd <your-repo>
+git clone https://github.com/wkg2673/docx-to-md.git
+cd docx-to-md
 pip install python-docx
 ```
 
